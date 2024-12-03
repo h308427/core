@@ -16,6 +16,7 @@ pipelines:
         credscan:
           lastModifiedDate: 2024-09-10
         binskim:
-          lastModifiedDate: 2024-09-10
+          lastModifiedDate: 2024-12-03
         spotbugs:
           lastModifiedDate: 2024-09-10
+    usedNonDefaultBranch: true
